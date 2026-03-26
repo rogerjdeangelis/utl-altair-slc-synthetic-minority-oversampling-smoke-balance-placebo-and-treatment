@@ -10,6 +10,9 @@ Problem creating synthetic data to balance placebo and treatment counts
            --------  ---------
   Before: {0.0: 352, 1.0: 36 } Before 
   After:  {0.0: 352, 1.0: 352} After  /*--- was 36 added 316 ---*/
+  
+Community Pos
+https://community.altair.com/discussion/45570/smote?tab=all
 
 Too long to post on a list, see giyhub
 https://github.com/rogerjdeangelis/utl-altair-slc-synthetic-minority-oversampling-smoke-balance-placebo-and-treatment
