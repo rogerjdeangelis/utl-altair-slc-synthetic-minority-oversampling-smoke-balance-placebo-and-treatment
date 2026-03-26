@@ -6,7 +6,10 @@ Altair slc Synthetic Minority Oversampling smoke balance placebo and treatment
 
     Altair slc Synthetic Minority Oversampling smoke balance placebo and treatment
     
-    Problem creating synthetic data to balance placebo and treatment counts
+    Problem creating synthetic data to balance placebo and treatment, counts
+
+     Community Post
+     https://community.altair.com/discussion/45570/smote?tab=all
 
               PLACEBO   TREATMENT
              --------  ---------
