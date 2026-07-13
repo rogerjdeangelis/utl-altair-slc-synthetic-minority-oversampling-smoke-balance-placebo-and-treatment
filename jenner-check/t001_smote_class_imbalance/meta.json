@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_smote_class_imbalance",
+  "source_file": "utl-altair-slc-synthetic-minority-oversampling-smoke-balance-placebo-and-treatment.sas",
+  "source_blob_sha": "845b886445731764c58c20b45d696b682a0aedc9",
+  "source_commit": "c9800970602c8cb8c5cfed7e08c692392dae5e61",
+  "notes": "The repo's inline DATA step (data workx.df; input f1-f5 target @@; cards4 with 388 rows) plus its proc chart hbar target/midpoints=0 1 -- the 'before' class-imbalance view (352 placebo vs 36 treatment) that motivates the SMOTE oversampling. Script body is verbatim lines 43-150 of the source .sas; the only substitution is an autoexec 'libname workx (work);' mapping the repo's external workx sas7bdat libref (d:/wpswrkx) onto WORK so the DATA step and chart run standalone. No data files uploaded; the cards4 rows are inline in the script."
+}

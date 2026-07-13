@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-07-13T04:11:45Z",
+  "_captured_run_id": "r_32c71fc33d52478793b8b10c43c578df",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 388 rows from DATALINES.",
+    "NOTE: Wrote workx.df (388 rows, 6 columns).",
+    "NOTE: PROC CHART data=workx.df",
+    "NOTE: Option VALIDVARNAME changed to V7."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
